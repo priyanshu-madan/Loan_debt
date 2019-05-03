@@ -9,4 +9,4 @@ language: python
 #      sudo: true
 
 # command to run tests
-script: pytest --doctest-modules
+#script: pytest --doctest-modules
